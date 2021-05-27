@@ -1,0 +1,18 @@
+Package: cipher
+Title: Employs multiple coding ciphers
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Glenn",
+           family = "Hiemstra",
+           role = c("aut", "cre"),
+           email = "glenn.hiemstra@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: The package provides easy to use ciphers.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports: 
+    stringr,
+    magrittr
